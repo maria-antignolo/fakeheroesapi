@@ -1,14 +1,14 @@
 {
   "writers": [
-    {"pk":1,"first_name":"Agatha", "last_name":"Christie", "email":"acmw@email.com", "pseudonym":"Mary Westmacott"},
-    {"pk":2,"first_name":"Benjamin", "last_name":"Franklin", "email":"bfmsd@email.com", "pseudonym":"Mrs. Silence Dogood"},
-    {"pk":3,"first_name":"Isaac", "last_name":"Asimov", "email":"iapf@email.com", "pseudonym":"Paul French"},
-    {"pk":4,"first_name":"Joanne", "last_name":"Rowling", "email":"jrrg@email.com", "pseudonym":"Robert Galbraith"},
-    {"pk":5,"first_name":"Michael", "last_name":"Crichton", "email":"mcjl@email.com", "pseudonym":"John Lange"},
-    {"pk":6,"first_name":"Stephen", "last_name":"King", "email":"skrb@email.com", "pseudonym":"Richard Bachman"},
-    {"pk":7,"first_name":"Washington", "last_name":"Irving", "email":"wijo@email.com", "pseudonym":"Jonathan Oldstyle"},
-    {"pk":8,"first_name":"Georges", "last_name":"Gordon", "email":"gglb@email.com", "pseudonym":"Lord Byron"},
-    {"pk":9,"first_name":"François-Marie", "last_name":"Arouet", "email":"fmav@email.com", "pseudonym":"Voltaire"},
-    {"pk":10,"first_name":"Lucile", "last_name":"Dupin", "email":"ldgs@email.com", "pseudonym":"George Sand"}
+    {"id":1,"first_name":"Agatha", "last_name":"Christie", "email":"acmw@email.com", "pseudonym":"Mary Westmacott"},
+    {"id":2,"first_name":"Benjamin", "last_name":"Franklin", "email":"bfmsd@email.com", "pseudonym":"Mrs. Silence Dogood"},
+    {"id":3,"first_name":"Isaac", "last_name":"Asimov", "email":"iapf@email.com", "pseudonym":"Paul French"},
+    {"id":4,"first_name":"Joanne", "last_name":"Rowling", "email":"jrrg@email.com", "pseudonym":"Robert Galbraith"},
+    {"id":5,"first_name":"Michael", "last_name":"Crichton", "email":"mcjl@email.com", "pseudonym":"John Lange"},
+    {"id":6,"first_name":"Stephen", "last_name":"King", "email":"skrb@email.com", "pseudonym":"Richard Bachman"},
+    {"id":7,"first_name":"Washington", "last_name":"Irving", "email":"wijo@email.com", "pseudonym":"Jonathan Oldstyle"},
+    {"id":8,"first_name":"Georges", "last_name":"Gordon", "email":"gglb@email.com", "pseudonym":"Lord Byron"},
+    {"id":9,"first_name":"François-Marie", "last_name":"Arouet", "email":"fmav@email.com", "pseudonym":"Voltaire"},
+    {"id":10,"first_name":"Lucile", "last_name":"Dupin", "email":"ldgs@email.com", "pseudonym":"George Sand"}
   ]
 }
